@@ -1,6 +1,6 @@
 # presupuesto-curso-react
 
-Proyecto 2: Control de Presupuesto
+Proyecto 2: Control de Presupuesto.\
 Curso: React - La Guía Completa Hooks Context Redux MERN +15 Apps
 
 # Getting Started with Create React App
